@@ -1,0 +1,34 @@
+C:\Users\Alexandr\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Alexandr\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alexandr\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Alexandr\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alexandr\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Alexandr\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Alexandr\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alexandr\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Alexandr\documents\visual studio 2010\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexandr\Desktop\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Users\Alexandr\Desktop\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alexandr\Desktop\HexHartLoader\HexHartLoader\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Alexandr\Desktop\HexHartLoader\HexHartLoader\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Alexandr\Desktop\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Alexandr\Desktop\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Alexandr\Desktop\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\HexHartLoader\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\HexHartLoader\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Metelkin\Рабочий стол\bootLoader\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog

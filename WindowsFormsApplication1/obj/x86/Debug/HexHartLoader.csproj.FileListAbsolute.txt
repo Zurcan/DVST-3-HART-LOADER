@@ -1,0 +1,37 @@
+C:\Users\Alexandr\Desktop\HexHartLoader\HexHartLoader\WindowsFormsApplication1\bin\Debug\HexHartLoader.exe
+C:\Users\Alexandr\Desktop\HexHartLoader\HexHartLoader\WindowsFormsApplication1\bin\Debug\HexHartLoader.pdb
+C:\Users\Alexandr\Desktop\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Desktop\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Alexandr\Desktop\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.Properties.Resources.resources
+C:\Users\Alexandr\Desktop\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.csproj.GenerateResource.Cache
+C:\Users\Alexandr\Desktop\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.exe
+C:\Users\Alexandr\Desktop\HexHartLoader\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.pdb
+C:\Documents and Settings\Metelkin\Рабочий стол\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.exe
+C:\Documents and Settings\Metelkin\Рабочий стол\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.pdb
+C:\Documents and Settings\Metelkin\Рабочий стол\HexHartLoader\WindowsFormsApplication1\bin\Debug\HexHartLoader.exe.config
+C:\Documents and Settings\Metelkin\Рабочий стол\HexHartLoader\WindowsFormsApplication1\bin\Debug\HexHartLoader.exe
+C:\Documents and Settings\Metelkin\Рабочий стол\HexHartLoader\WindowsFormsApplication1\bin\Debug\HexHartLoader.pdb
+C:\Documents and Settings\Metelkin\Рабочий стол\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Metelkin\Рабочий стол\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\Metelkin\Рабочий стол\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.Properties.Resources.resources
+C:\Documents and Settings\Metelkin\Рабочий стол\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Metelkin\Рабочий стол\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexandr\Desktop\HexHartLoader\WindowsFormsApplication1\bin\Debug\HexHartLoader.exe.config
+C:\Users\Alexandr\Desktop\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.exe
+C:\Users\Alexandr\Desktop\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.pdb
+C:\Users\Alexandr\Desktop\HexHartLoader\WindowsFormsApplication1\bin\Debug\HexHartLoader.exe
+C:\Users\Alexandr\Desktop\HexHartLoader\WindowsFormsApplication1\bin\Debug\HexHartLoader.pdb
+C:\Users\Alexandr\Desktop\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.csprojResolveAssemblyReference.cache
+C:\Users\Alexandr\Desktop\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Alexandr\Desktop\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.Properties.Resources.resources
+C:\Users\Alexandr\Desktop\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.csproj.GenerateResource.Cache
+C:\Documents and Settings\San4o\Desktop\HexHartLoader\WindowsFormsApplication1\bin\Debug\HexHartLoader.exe.config
+C:\Documents and Settings\San4o\Desktop\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.exe
+C:\Documents and Settings\San4o\Desktop\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.pdb
+C:\Documents and Settings\San4o\Desktop\HexHartLoader\WindowsFormsApplication1\bin\Debug\HexHartLoader.exe
+C:\Documents and Settings\San4o\Desktop\HexHartLoader\WindowsFormsApplication1\bin\Debug\HexHartLoader.pdb
+C:\Documents and Settings\San4o\Desktop\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\San4o\Desktop\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Documents and Settings\San4o\Desktop\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\HexHartLoader.Properties.Resources.resources
+C:\Documents and Settings\San4o\Desktop\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\San4o\Desktop\HexHartLoader\WindowsFormsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
